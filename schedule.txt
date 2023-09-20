@@ -1,4 +1,4 @@
-Week 1:
+Lecture 1:
 * Discuss why and how do we use Python tools in the future. For individual programmer, he/she can use whatever they want. What if we plan to work as a group?
 - Intro to website and online programming platform
 - Intro to Jupyter Lab/Notebook, Annaconda, Google Colab, Azure Notebook
@@ -7,9 +7,16 @@ Week 1:
 - Intro to interactive application (a few examples)
 - Intro to GitHub (for future distribution and version control)
 
-Week 2: (People with programing background can skip)
+Lecture 2: (People with programing background can skip)
 * See notebook Lecture_1
 - Data types and basic operations
 -- (int, float, string, boolean, etc.)
 -- //, %, ==, !=,
 -- string operations: count, find, replace, concatenation (+ or f' ')
+
+- Object and Function
+
+Lecture 3
+- Small project: building function, call in main, 
+- Regression and clustering. 
+- Real data process
